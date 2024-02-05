@@ -1,0 +1,23 @@
+{
+    "name": "public",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "log": "conventional-changelog -p angular -i README.md -s -r 0 -n ./changelog.ts"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "conventional-changelog-cli": "^2.2.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/erha2777/public"
+    },
+    "bugs": {
+        "url": "https://github.com/erha2777/public/issues"
+    },
+    "homepage": "https://github.com/erha2777/public#readme"
+}
